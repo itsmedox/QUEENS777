@@ -28,8 +28,8 @@
   
   "rate": false,
   
-  "clicks_to_show_inter": 2,
-  "native_rate": 2,
+  "clicks_to_show_inter": 1,
+  "native_rate": 1,
   
    "show_cpa": false,
   "cpa_image": "",
